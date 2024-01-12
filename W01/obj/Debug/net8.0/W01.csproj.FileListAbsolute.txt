@@ -1,0 +1,14 @@
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\W01\bin\Debug\net8.0\W01.exe
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\W01\bin\Debug\net8.0\W01.deps.json
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\W01\bin\Debug\net8.0\W01.runtimeconfig.json
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\W01\bin\Debug\net8.0\W01.dll
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\W01\bin\Debug\net8.0\W01.pdb
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\W01\obj\Debug\net8.0\W01.GeneratedMSBuildEditorConfig.editorconfig
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\W01\obj\Debug\net8.0\W01.AssemblyInfoInputs.cache
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\W01\obj\Debug\net8.0\W01.AssemblyInfo.cs
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\W01\obj\Debug\net8.0\W01.csproj.CoreCompileInputs.cache
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\W01\obj\Debug\net8.0\W01.dll
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\W01\obj\Debug\net8.0\refint\W01.dll
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\W01\obj\Debug\net8.0\W01.pdb
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\W01\obj\Debug\net8.0\W01.genruntimeconfig.cache
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\W01\obj\Debug\net8.0\ref\W01.dll
