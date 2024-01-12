@@ -1,0 +1,15 @@
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\helloWorld\bin\Debug\net8.0\helloWorld.exe
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\helloWorld\bin\Debug\net8.0\helloWorld.deps.json
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\helloWorld\bin\Debug\net8.0\helloWorld.runtimeconfig.json
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\helloWorld\bin\Debug\net8.0\helloWorld.dll
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\helloWorld\bin\Debug\net8.0\helloWorld.pdb
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\helloWorld\obj\Debug\net8.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\helloWorld\obj\Debug\net8.0\helloWorld.AssemblyInfoInputs.cache
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\helloWorld\obj\Debug\net8.0\helloWorld.AssemblyInfo.cs
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\helloWorld\obj\Debug\net8.0\helloWorld.csproj.CoreCompileInputs.cache
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\helloWorld\obj\Debug\net8.0\helloWorld.sourcelink.json
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\helloWorld\obj\Debug\net8.0\helloWorld.dll
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\helloWorld\obj\Debug\net8.0\refint\helloWorld.dll
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\helloWorld\obj\Debug\net8.0\helloWorld.pdb
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\helloWorld\obj\Debug\net8.0\helloWorld.genruntimeconfig.cache
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\helloWorld\obj\Debug\net8.0\ref\helloWorld.dll
