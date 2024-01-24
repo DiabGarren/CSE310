@@ -2,17 +2,26 @@
 using System.Collections.Generic;
 using Newtonsoft.Json;
 
+Console.WriteLine("Would you like to (c)reate a purchase order or (v)iew all purchase orders? (C or V) ");
+var method = Console.ReadLine();
+
+
 var currentDir = Directory.GetCurrentDirectory();
 var itemsDir = Path.Combine(currentDir, "assests", "items.json");
 var ordersDir = Path.Combine(currentDir, "assests", "orders.json");
 
-var items = GetItems(itemsDir);
-var orders = GetOrders(ordersDir);
 
-foreach (var order in orders)
+if (method.ToLower() == "v")
 {
-    displayOrder(order);
+    var items = GetItems(itemsDir);
+    var orders = GetOrders(ordersDir);
+
+    foreach (var order in orders)
+    {
+        displayOrder(order);
+    }
 }
+
 
 IEnumerable<ItemData> GetItems(string fileName)
 {
@@ -44,5 +53,4 @@ void displayOrder(OrderData order)
 }
 
 record ItemData(string name, string colour, double price, int qty);
-
 record OrderData(int orderNumber, string name, string date, IEnumerable<ItemData> items, double total);
