@@ -13,3 +13,6 @@ E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\financeManager\ob
 E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\financeManager\obj\Debug\net8.0\financeManager.pdb
 E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\financeManager\obj\Debug\net8.0\financeManager.genruntimeconfig.cache
 E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\financeManager\obj\Debug\net8.0\ref\financeManager.dll
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\financeManager\obj\Debug\net8.0\financeManager.csproj.AssemblyReference.cache
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\financeManager\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\financeManager\obj\Debug\net8.0\financeManager.csproj.CopyComplete

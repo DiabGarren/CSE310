@@ -1,0 +1,12 @@
+[
+    {
+        "name": "aaa",
+        "colour": "White",
+        "price": 60
+    },
+    {
+        "name": "bbb",
+        "colour": "Black",
+        "price": 100
+    }
+]
