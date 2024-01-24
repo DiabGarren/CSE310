@@ -1,36 +1,36 @@
 [
     {
-        "orderNumber": 1,
-        "name": "Garren Diab",
-        "date": "15/01/2024",
-        "items": [
+        "Ordernumber": 1,
+        "Name": "Garren Diab",
+        "Date": "15/01/2024",
+        "Products": [
             {
-                "name": "bbb",
-                "colour": "Black",
-                "price": 100,
-                "qty": 2
+                "Name": "bbb",
+                "Colour": "Black",
+                "Price": 100.0,
+                "Qty": 2
             }
         ],
-        "total": 200
+        "Total": 200.0
     },
     {
-        "orderNumber": 2,
-        "name": "Garren Diab",
-        "date": "20/01/2024",
-        "items": [
+        "Ordernumber": 2,
+        "Name": "Garren Diab",
+        "Date": "20/01/2024",
+        "Products": [
             {
-                "name": "bbb",
-                "colour": "Black",
-                "price": 100,
-                "qty": 2
+                "Name": "bbb",
+                "Colour": "Black",
+                "Price": 100.0,
+                "Qty": 2
             },
             {
-                "name": "aaaa",
-                "colour": "White",
-                "price": 60,
-                "qty": 1
+                "Name": "aaaa",
+                "Colour": "White",
+                "Price": 60.0,
+                "Qty": 1
             }
         ],
-        "total": 60
+        "Total": 260.0
     }
 ]
